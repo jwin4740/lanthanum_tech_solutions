@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+
+}
+
+#mainDiv {
+    background-image: url("../images/mainImage.jpeg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#titleDivContainer{
+    margin: 0px;
+    position: relative;
+    top: 30%;
+  
+ 
+}
+.titleText{
+    opacity: 0.8;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    color: white;
+    font-size: 40px;
+ 
+}
